@@ -93,3 +93,5 @@ ENV/
 .spyderproject
 
 .vscode/
+
+catalog/migrations/
